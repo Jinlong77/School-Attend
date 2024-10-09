@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\School\\Attendance Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|d:\\programming\\c#\\school\\attendance management system\\attendance management system\\base\\user controls\\usercontrolattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\user controls\\usercontrolattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\user controls\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\user controls\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\forms\\logoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\forms\\logoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\user controls\\usercontrolattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\user controls\\usercontrolattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|D:\\Programming\\C#\\School\\Attendance Management System\\attendance management system\\base\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77E48D5-582A-4933-89A5-4747ACEFC86A}|Attendance Management System\\Attendance Management System.csproj|solutionrelative:attendance management system\\base\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlAttendance.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "RelativeToolTip": "Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:41:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlAttendance.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Base\\User Controls\\UserControlAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:41:35.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlDashboard.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\User Controls\\UserControlDashboard.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\User Controls\\UserControlDashboard.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Base\\User Controls\\UserControlDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:29:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogoutForm.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LogoutForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\Forms\\LogoutForm.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LogoutForm.cs",
+              "RelativeToolTip": "Attendance Management System\\Base\\Forms\\LogoutForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:15:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:13:18.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\Forms\\LoginForm.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Base\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:13:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA1wDYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:12:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Attendance Management System\\Base\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\C#\\School\\Attendance Management System\\Attendance Management System\\Base\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Attendance Management System\\Base\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:12:46.603Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

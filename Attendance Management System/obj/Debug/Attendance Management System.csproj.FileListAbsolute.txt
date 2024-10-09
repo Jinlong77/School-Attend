@@ -1,0 +1,14 @@
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.exe.config
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.exe
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.pdb
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.AssemblyReference.cache
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Properties.Resources.resources
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.GenerateResource.cache
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.CoreCompileInputs.cache
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.exe
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.pdb
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Login.resources
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.MainForm.resources
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Controls.UserControlDashboard.resources
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Base.User_Controls.UserControlAttendance.resources
+D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Base.Forms.LogoutForm.resources
