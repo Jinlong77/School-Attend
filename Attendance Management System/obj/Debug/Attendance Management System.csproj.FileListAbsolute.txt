@@ -12,3 +12,17 @@ D:\Programming\C#\School\Attendance Management System\Attendance Management Syst
 D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Controls.UserControlDashboard.resources
 D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Base.User_Controls.UserControlAttendance.resources
 D:\Programming\C#\School\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Base.Forms.LogoutForm.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\bin\Debug\Attendance Management System.exe.config
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\bin\Debug\Attendance Management System.exe
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\bin\Debug\Attendance Management System.pdb
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance Management System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.Base.Forms.LogoutForm.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.Base.User_Controls.UserControlAttendance.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.Controls.UserControlDashboard.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.MainForm.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.Login.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance Management System.exe
+C:\Users\ASUS\Desktop\School-Attendance\Attendance Management System\obj\Debug\Attendance Management System.pdb

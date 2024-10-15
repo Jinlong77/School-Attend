@@ -78,11 +78,12 @@
             this.panel1.Controls.Add(this.btnAttendance);
             this.panel1.Controls.Add(this.btnDashboard);
             this.panel1.Controls.Add(this.panel2);
-            this.panel1.Location = new System.Drawing.Point(39, 87);
-            this.panel1.MaximumSize = new System.Drawing.Size(350, 1000);
+            this.panel1.Location = new System.Drawing.Point(58, 134);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel1.MaximumSize = new System.Drawing.Size(525, 1538);
             this.panel1.Name = "panel1";
             this.panel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.panel1.Size = new System.Drawing.Size(350, 745);
+            this.panel1.Size = new System.Drawing.Size(525, 1146);
             this.panel1.TabIndex = 0;
             // 
             // btnAddStudent
@@ -92,13 +93,14 @@
             this.btnAddStudent.BackColor = System.Drawing.Color.SlateBlue;
             this.btnAddStudent.FlatAppearance.BorderSize = 0;
             this.btnAddStudent.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddStudent.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddStudent.ForeColor = System.Drawing.Color.White;
             this.btnAddStudent.Image = global::Attendance_Management_System.Properties.Resources.icons8_new_member_on_a_group_messenger_added_recently_48;
             this.btnAddStudent.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddStudent.Location = new System.Drawing.Point(10, 433);
+            this.btnAddStudent.Location = new System.Drawing.Point(15, 666);
+            this.btnAddStudent.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAddStudent.Name = "btnAddStudent";
-            this.btnAddStudent.Size = new System.Drawing.Size(340, 51);
+            this.btnAddStudent.Size = new System.Drawing.Size(510, 78);
             this.btnAddStudent.TabIndex = 0;
             this.btnAddStudent.Text = "          Add Student";
             this.btnAddStudent.UseVisualStyleBackColor = false;
@@ -108,11 +110,12 @@
             // 
             this.lbUsername.AutoSize = true;
             this.lbUsername.BackColor = System.Drawing.Color.Transparent;
-            this.lbUsername.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbUsername.ForeColor = System.Drawing.Color.White;
-            this.lbUsername.Location = new System.Drawing.Point(132, 16);
+            this.lbUsername.Location = new System.Drawing.Point(198, 25);
+            this.lbUsername.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbUsername.Name = "lbUsername";
-            this.lbUsername.Size = new System.Drawing.Size(37, 26);
+            this.lbUsername.Size = new System.Drawing.Size(59, 37);
             this.lbUsername.TabIndex = 4;
             this.lbUsername.Text = "{?}";
             // 
@@ -123,13 +126,14 @@
             this.btnLogout.BackColor = System.Drawing.Color.SlateBlue;
             this.btnLogout.FlatAppearance.BorderSize = 0;
             this.btnLogout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLogout.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogout.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogout.ForeColor = System.Drawing.Color.White;
             this.btnLogout.Image = global::Attendance_Management_System.Properties.Resources.icons8_logout_48;
             this.btnLogout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnLogout.Location = new System.Drawing.Point(10, 685);
+            this.btnLogout.Location = new System.Drawing.Point(15, 1054);
+            this.btnLogout.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnLogout.Name = "btnLogout";
-            this.btnLogout.Size = new System.Drawing.Size(340, 51);
+            this.btnLogout.Size = new System.Drawing.Size(510, 78);
             this.btnLogout.TabIndex = 0;
             this.btnLogout.Text = "Logout";
             this.btnLogout.UseVisualStyleBackColor = false;
@@ -139,11 +143,12 @@
             // 
             this.lbRole.AutoSize = true;
             this.lbRole.BackColor = System.Drawing.Color.Transparent;
-            this.lbRole.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbRole.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbRole.ForeColor = System.Drawing.Color.White;
-            this.lbRole.Location = new System.Drawing.Point(82, 61);
+            this.lbRole.Location = new System.Drawing.Point(123, 94);
+            this.lbRole.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbRole.Name = "lbRole";
-            this.lbRole.Size = new System.Drawing.Size(37, 26);
+            this.lbRole.Size = new System.Drawing.Size(59, 37);
             this.lbRole.TabIndex = 3;
             this.lbRole.Text = "{?}";
             // 
@@ -154,13 +159,14 @@
             this.btnSetting.BackColor = System.Drawing.Color.SlateBlue;
             this.btnSetting.FlatAppearance.BorderSize = 0;
             this.btnSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSetting.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSetting.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSetting.ForeColor = System.Drawing.Color.White;
             this.btnSetting.Image = global::Attendance_Management_System.Properties.Resources.icons8_settings_50;
             this.btnSetting.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSetting.Location = new System.Drawing.Point(10, 601);
+            this.btnSetting.Location = new System.Drawing.Point(15, 925);
+            this.btnSetting.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSetting.Name = "btnSetting";
-            this.btnSetting.Size = new System.Drawing.Size(340, 51);
+            this.btnSetting.Size = new System.Drawing.Size(510, 78);
             this.btnSetting.TabIndex = 0;
             this.btnSetting.Text = "Setting";
             this.btnSetting.UseVisualStyleBackColor = false;
@@ -169,11 +175,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(5, 61);
+            this.label1.Location = new System.Drawing.Point(8, 94);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 26);
+            this.label1.Size = new System.Drawing.Size(115, 37);
             this.label1.TabIndex = 2;
             this.label1.Text = "Role : ";
             // 
@@ -184,13 +191,14 @@
             this.btnReport.BackColor = System.Drawing.Color.SlateBlue;
             this.btnReport.FlatAppearance.BorderSize = 0;
             this.btnReport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReport.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReport.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReport.ForeColor = System.Drawing.Color.White;
             this.btnReport.Image = global::Attendance_Management_System.Properties.Resources.icons8_report_48;
             this.btnReport.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnReport.Location = new System.Drawing.Point(10, 517);
+            this.btnReport.Location = new System.Drawing.Point(15, 795);
+            this.btnReport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnReport.Name = "btnReport";
-            this.btnReport.Size = new System.Drawing.Size(340, 51);
+            this.btnReport.Size = new System.Drawing.Size(510, 78);
             this.btnReport.TabIndex = 0;
             this.btnReport.Text = "Report";
             this.btnReport.UseVisualStyleBackColor = false;
@@ -200,11 +208,12 @@
             // 
             this.lbWelcome.AutoSize = true;
             this.lbWelcome.BackColor = System.Drawing.Color.Transparent;
-            this.lbWelcome.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbWelcome.ForeColor = System.Drawing.Color.White;
-            this.lbWelcome.Location = new System.Drawing.Point(5, 16);
+            this.lbWelcome.Location = new System.Drawing.Point(8, 25);
+            this.lbWelcome.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbWelcome.Name = "lbWelcome";
-            this.lbWelcome.Size = new System.Drawing.Size(121, 26);
+            this.lbWelcome.Size = new System.Drawing.Size(187, 37);
             this.lbWelcome.TabIndex = 1;
             this.lbWelcome.Text = "Welcome : ";
             // 
@@ -215,13 +224,14 @@
             this.btnAddTeacher.BackColor = System.Drawing.Color.SlateBlue;
             this.btnAddTeacher.FlatAppearance.BorderSize = 0;
             this.btnAddTeacher.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddTeacher.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddTeacher.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddTeacher.ForeColor = System.Drawing.Color.White;
             this.btnAddTeacher.Image = global::Attendance_Management_System.Properties.Resources.icons8_new_member_on_a_group_messenger_added_recently_48;
             this.btnAddTeacher.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddTeacher.Location = new System.Drawing.Point(10, 349);
+            this.btnAddTeacher.Location = new System.Drawing.Point(15, 537);
+            this.btnAddTeacher.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAddTeacher.Name = "btnAddTeacher";
-            this.btnAddTeacher.Size = new System.Drawing.Size(340, 51);
+            this.btnAddTeacher.Size = new System.Drawing.Size(510, 78);
             this.btnAddTeacher.TabIndex = 0;
             this.btnAddTeacher.Text = "          Add Teacher";
             this.btnAddTeacher.UseVisualStyleBackColor = false;
@@ -234,13 +244,14 @@
             this.btnAddClass.BackColor = System.Drawing.Color.SlateBlue;
             this.btnAddClass.FlatAppearance.BorderSize = 0;
             this.btnAddClass.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddClass.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddClass.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddClass.ForeColor = System.Drawing.Color.White;
             this.btnAddClass.Image = global::Attendance_Management_System.Properties.Resources.icons8_add_48;
             this.btnAddClass.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddClass.Location = new System.Drawing.Point(10, 265);
+            this.btnAddClass.Location = new System.Drawing.Point(15, 408);
+            this.btnAddClass.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAddClass.Name = "btnAddClass";
-            this.btnAddClass.Size = new System.Drawing.Size(340, 51);
+            this.btnAddClass.Size = new System.Drawing.Size(510, 78);
             this.btnAddClass.TabIndex = 0;
             this.btnAddClass.Text = "     Add Class";
             this.btnAddClass.UseVisualStyleBackColor = false;
@@ -253,13 +264,14 @@
             this.btnAttendance.BackColor = System.Drawing.Color.SlateBlue;
             this.btnAttendance.FlatAppearance.BorderSize = 0;
             this.btnAttendance.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAttendance.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAttendance.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAttendance.ForeColor = System.Drawing.Color.White;
             this.btnAttendance.Image = global::Attendance_Management_System.Properties.Resources.icons8_todo_list_48;
             this.btnAttendance.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAttendance.Location = new System.Drawing.Point(10, 181);
+            this.btnAttendance.Location = new System.Drawing.Point(15, 278);
+            this.btnAttendance.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAttendance.Name = "btnAttendance";
-            this.btnAttendance.Size = new System.Drawing.Size(340, 51);
+            this.btnAttendance.Size = new System.Drawing.Size(510, 78);
             this.btnAttendance.TabIndex = 0;
             this.btnAttendance.Text = "        Attendance";
             this.btnAttendance.UseVisualStyleBackColor = false;
@@ -272,13 +284,14 @@
             this.btnDashboard.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.btnDashboard.FlatAppearance.BorderSize = 0;
             this.btnDashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDashboard.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDashboard.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDashboard.ForeColor = System.Drawing.Color.White;
             this.btnDashboard.Image = global::Attendance_Management_System.Properties.Resources.icons8_dashboard_layout_48;
             this.btnDashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDashboard.Location = new System.Drawing.Point(10, 97);
+            this.btnDashboard.Location = new System.Drawing.Point(15, 149);
+            this.btnDashboard.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDashboard.Name = "btnDashboard";
-            this.btnDashboard.Size = new System.Drawing.Size(340, 51);
+            this.btnDashboard.Size = new System.Drawing.Size(510, 78);
             this.btnDashboard.TabIndex = 0;
             this.btnDashboard.Text = "        Dashboard";
             this.btnDashboard.UseVisualStyleBackColor = false;
@@ -289,16 +302,18 @@
             this.panel2.Controls.Add(this.panelSide);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(15, 745);
+            this.panel2.Size = new System.Drawing.Size(22, 1146);
             this.panel2.TabIndex = 0;
             // 
             // panelSide
             // 
             this.panelSide.BackColor = System.Drawing.Color.White;
-            this.panelSide.Location = new System.Drawing.Point(0, 98);
+            this.panelSide.Location = new System.Drawing.Point(0, 151);
+            this.panelSide.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelSide.Name = "panelSide";
-            this.panelSide.Size = new System.Drawing.Size(10, 50);
+            this.panelSide.Size = new System.Drawing.Size(15, 77);
             this.panelSide.TabIndex = 0;
             // 
             // pictureBox6
@@ -306,9 +321,10 @@
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox6.ErrorImage = null;
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(39, -3);
+            this.pictureBox6.Location = new System.Drawing.Point(58, -5);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(385, 94);
+            this.pictureBox6.Size = new System.Drawing.Size(578, 145);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox6.TabIndex = 16;
             this.pictureBox6.TabStop = false;
@@ -318,9 +334,10 @@
             this.panelBottom.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panelBottom.BackColor = System.Drawing.Color.SlateBlue;
-            this.panelBottom.Location = new System.Drawing.Point(39, 831);
+            this.panelBottom.Location = new System.Drawing.Point(58, 1278);
+            this.panelBottom.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelBottom.Name = "panelBottom";
-            this.panelBottom.Size = new System.Drawing.Size(1604, 47);
+            this.panelBottom.Size = new System.Drawing.Size(2406, 72);
             this.panelBottom.TabIndex = 17;
             // 
             // panel3
@@ -329,28 +346,31 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel3.BackColor = System.Drawing.Color.SlateBlue;
             this.panel3.Controls.Add(this.lblDateTime);
-            this.panel3.Location = new System.Drawing.Point(327, 87);
+            this.panel3.Location = new System.Drawing.Point(490, 134);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1316, 98);
+            this.panel3.Size = new System.Drawing.Size(1974, 151);
             this.panel3.TabIndex = 18;
             // 
             // lblDateTime
             // 
             this.lblDateTime.AutoSize = true;
-            this.lblDateTime.Font = new System.Drawing.Font("Google Sans", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDateTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDateTime.ForeColor = System.Drawing.Color.White;
-            this.lblDateTime.Location = new System.Drawing.Point(68, 28);
+            this.lblDateTime.Location = new System.Drawing.Point(102, 43);
+            this.lblDateTime.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDateTime.Name = "lblDateTime";
-            this.lblDateTime.Size = new System.Drawing.Size(183, 44);
+            this.lblDateTime.Size = new System.Drawing.Size(239, 61);
             this.lblDateTime.TabIndex = 5;
             this.lblDateTime.Text = "00:00:00";
             // 
             // panelBackSide
             // 
             this.panelBackSide.BackColor = System.Drawing.Color.DarkSlateBlue;
-            this.panelBackSide.Location = new System.Drawing.Point(389, 193);
+            this.panelBackSide.Location = new System.Drawing.Point(584, 297);
+            this.panelBackSide.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelBackSide.Name = "panelBackSide";
-            this.panelBackSide.Size = new System.Drawing.Size(10, 50);
+            this.panelBackSide.Size = new System.Drawing.Size(15, 77);
             this.panelBackSide.TabIndex = 0;
             // 
             // timerDateTime
@@ -360,25 +380,28 @@
             // userControlDashboard
             // 
             this.userControlDashboard.BackColor = System.Drawing.Color.White;
-            this.userControlDashboard.Location = new System.Drawing.Point(405, 226);
+            this.userControlDashboard.Location = new System.Drawing.Point(608, 348);
+            this.userControlDashboard.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.userControlDashboard.Name = "userControlDashboard";
-            this.userControlDashboard.Size = new System.Drawing.Size(1238, 429);
+            this.userControlDashboard.Size = new System.Drawing.Size(1857, 660);
             this.userControlDashboard.TabIndex = 19;
             // 
             // userControlAttendance
             // 
-            this.userControlAttendance.Location = new System.Drawing.Point(405, 191);
+            this.userControlAttendance.BackColor = System.Drawing.Color.White;
+            this.userControlAttendance.Location = new System.Drawing.Point(608, 294);
+            this.userControlAttendance.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.userControlAttendance.Name = "userControlAttendance";
-            this.userControlAttendance.Size = new System.Drawing.Size(1180, 584);
+            this.userControlAttendance.Size = new System.Drawing.Size(1770, 898);
             this.userControlAttendance.TabIndex = 20;
             this.userControlAttendance.Visible = false;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1643, 878);
+            this.ClientSize = new System.Drawing.Size(1946, 1106);
             this.Controls.Add(this.panelBackSide);
             this.Controls.Add(this.panelBottom);
             this.Controls.Add(this.panel1);
@@ -388,6 +411,7 @@
             this.Controls.Add(this.userControlAttendance);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dashboard";
