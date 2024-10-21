@@ -33,9 +33,45 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\BunifuCrack\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -52,6 +88,30 @@
     </Compile>
     <Compile Include="Base\Forms\LogoutForm.Designer.cs">
       <DependentUpon>LogoutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\Forms\StudentDasboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\Forms\StudentDasboard.Designer.cs">
+      <DependentUpon>StudentDasboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddClass.Designer.cs">
+      <DependentUpon>UserControlAddClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddStudent.Designer.cs">
+      <DependentUpon>UserControlAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Base\User Controls\UserControlAddTeacher.Designer.cs">
+      <DependentUpon>UserControlAddTeacher.cs</DependentUpon>
     </Compile>
     <Compile Include="Base\User Controls\UserControlAttendance.cs">
       <SubType>UserControl</SubType>
@@ -86,6 +146,18 @@
     <EmbeddedResource Include="Base\Forms\LogoutForm.resx">
       <DependentUpon>LogoutForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Base\Forms\StudentDasboard.resx">
+      <DependentUpon>StudentDasboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\User Controls\UserControlAddClass.resx">
+      <DependentUpon>UserControlAddClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\User Controls\UserControlAddStudent.resx">
+      <DependentUpon>UserControlAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\User Controls\UserControlAddTeacher.resx">
+      <DependentUpon>UserControlAddTeacher.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Base\User Controls\UserControlAttendance.resx">
       <DependentUpon>UserControlAttendance.cs</DependentUpon>
     </EmbeddedResource>
@@ -98,6 +170,7 @@
     <EmbeddedResource Include="Base\Forms\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
@@ -126,6 +199,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\eye.png" />
+    <Content Include="Resources\google-classroom-logo-AD2BE4B278-seeklogo.com.png" />
+    <Content Include="Resources\images.png" />
+    <Content Include="Resources\teacherlogo.jfif" />
+    <Content Include="Resources\user.jfif" />
     <None Include="Resources\icons8-settings-50.png" />
     <None Include="Resources\icons8-report-48.png" />
     <None Include="Resources\icons8-logout-48.png" />

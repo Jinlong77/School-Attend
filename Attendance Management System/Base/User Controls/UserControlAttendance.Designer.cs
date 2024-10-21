@@ -40,10 +40,11 @@
             // 
             this.txtSearch.BackColor = System.Drawing.Color.WhiteSmoke;
             this.txtSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtSearch.Font = new System.Drawing.Font("Google Sans", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSearch.Location = new System.Drawing.Point(42, 35);
+            this.txtSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSearch.Location = new System.Drawing.Point(63, 54);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(415, 41);
+            this.txtSearch.Size = new System.Drawing.Size(622, 53);
             this.txtSearch.TabIndex = 0;
             this.txtSearch.Enter += new System.EventHandler(this.txtSearch_GotFocus);
             this.txtSearch.Leave += new System.EventHandler(this.txtSearch_LostFocus);
@@ -56,15 +57,17 @@
             this.name,
             this.permission_detail,
             this.clas});
-            this.listView1.Font = new System.Drawing.Font("Google Sans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listView1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listView1.ForeColor = System.Drawing.Color.Black;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(42, 103);
+            this.listView1.Location = new System.Drawing.Point(63, 158);
+            this.listView1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(1444, 574);
+            this.listView1.Size = new System.Drawing.Size(2164, 881);
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
+          
             // 
             // id
             // 
@@ -91,13 +94,14 @@
             // 
             // UserControlAttendance
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.txtSearch);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "UserControlAttendance";
-            this.Size = new System.Drawing.Size(1517, 700);
+            this.Size = new System.Drawing.Size(2276, 1077);
             this.ResumeLayout(false);
             this.PerformLayout();
 

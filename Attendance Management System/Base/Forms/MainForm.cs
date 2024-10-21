@@ -9,6 +9,7 @@ using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
 
+
 namespace Attendance_Management_System
 {
     public partial class MainForm : Form
@@ -30,9 +31,11 @@ namespace Attendance_Management_System
 
             Controls.Add(userControlDashboard);
             Controls.Add(userControlAttendance);
+       
 
             userControlDashboard.Visible = false;
             userControlAttendance.Visible = false;
+
 
             Dictionary<Button, UserControl> buttonControlMap = new Dictionary<Button, UserControl>
             {
@@ -118,5 +121,7 @@ namespace Attendance_Management_System
             MoveSidePanel(buttonName);
             userControlManager.ShowControl(buttonName);
         }
+
+      
     }
 }

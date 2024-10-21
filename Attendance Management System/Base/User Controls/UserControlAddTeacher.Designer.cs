@@ -1,0 +1,890 @@
+﻿namespace Attendance_Management_System.Base.User_Controls
+{
+    partial class UserControlAddTeacher
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserControlAddTeacher));
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties4 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties5 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties6 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties7 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties8 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties9 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties10 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties11 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties12 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties13 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties14 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties15 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties16 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties17 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties18 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties19 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties20 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties21 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties22 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties23 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties24 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            this.bunifuPanel1 = new Bunifu.UI.WinForms.BunifuPanel();
+            this.bunifuLabel1 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.txtPhone = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel3 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.txtHireDate = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel7 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.txtEmail = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel6 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.txtLastName = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel5 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.txtFirstName = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel4 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuPictureBox1 = new Bunifu.UI.WinForms.BunifuPictureBox();
+            this.txtTeacherID = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuLabel2 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.btnResetTeacher = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.btnSubmitTeacher = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.bunifuPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bunifuPictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // bunifuPanel1
+            // 
+            this.bunifuPanel1.BackgroundColor = System.Drawing.Color.WhiteSmoke;
+            this.bunifuPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuPanel1.BackgroundImage")));
+            this.bunifuPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.bunifuPanel1.BorderColor = System.Drawing.Color.Transparent;
+            this.bunifuPanel1.BorderRadius = 3;
+            this.bunifuPanel1.BorderThickness = 1;
+            this.bunifuPanel1.Controls.Add(this.btnResetTeacher);
+            this.bunifuPanel1.Controls.Add(this.btnSubmitTeacher);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel1);
+            this.bunifuPanel1.Controls.Add(this.txtPhone);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel3);
+            this.bunifuPanel1.Controls.Add(this.txtHireDate);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel7);
+            this.bunifuPanel1.Controls.Add(this.txtEmail);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel6);
+            this.bunifuPanel1.Controls.Add(this.txtLastName);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel5);
+            this.bunifuPanel1.Controls.Add(this.txtFirstName);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel4);
+            this.bunifuPanel1.Controls.Add(this.bunifuPictureBox1);
+            this.bunifuPanel1.Controls.Add(this.txtTeacherID);
+            this.bunifuPanel1.Controls.Add(this.bunifuLabel2);
+            this.bunifuPanel1.Location = new System.Drawing.Point(0, 0);
+            this.bunifuPanel1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.bunifuPanel1.Name = "bunifuPanel1";
+            this.bunifuPanel1.ShowBorders = true;
+            this.bunifuPanel1.Size = new System.Drawing.Size(854, 1206);
+            this.bunifuPanel1.TabIndex = 5;
+            // 
+            // bunifuLabel1
+            // 
+            this.bunifuLabel1.AllowParentOverrides = false;
+            this.bunifuLabel1.AutoEllipsis = false;
+            this.bunifuLabel1.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel1.CursorType = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel1.Location = new System.Drawing.Point(227, 40);
+            this.bunifuLabel1.Name = "bunifuLabel1";
+            this.bunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel1.Size = new System.Drawing.Size(375, 46);
+            this.bunifuLabel1.TabIndex = 6;
+            this.bunifuLabel1.Text = "Teacher Information";
+            this.bunifuLabel1.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel1.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // txtPhone
+            // 
+            this.txtPhone.AcceptsReturn = false;
+            this.txtPhone.AcceptsTab = false;
+            this.txtPhone.AnimationSpeed = 200;
+            this.txtPhone.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtPhone.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtPhone.BackColor = System.Drawing.Color.Transparent;
+            this.txtPhone.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtPhone.BackgroundImage")));
+            this.txtPhone.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtPhone.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtPhone.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtPhone.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtPhone.BorderRadius = 5;
+            this.txtPhone.BorderThickness = 1;
+            this.txtPhone.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtPhone.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtPhone.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtPhone.DefaultText = "";
+            this.txtPhone.FillColor = System.Drawing.Color.White;
+            this.txtPhone.HideSelection = true;
+            this.txtPhone.IconLeft = null;
+            this.txtPhone.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtPhone.IconPadding = 10;
+            this.txtPhone.IconRight = null;
+            this.txtPhone.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtPhone.Lines = new string[0];
+            this.txtPhone.Location = new System.Drawing.Point(289, 696);
+            this.txtPhone.MaxLength = 32767;
+            this.txtPhone.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtPhone.Modified = false;
+            this.txtPhone.Multiline = false;
+            this.txtPhone.Name = "txtPhone";
+            stateProperties1.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties1.FillColor = System.Drawing.Color.Empty;
+            stateProperties1.ForeColor = System.Drawing.Color.Empty;
+            stateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtPhone.OnActiveState = stateProperties1;
+            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtPhone.OnDisabledState = stateProperties2;
+            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties3.FillColor = System.Drawing.Color.Empty;
+            stateProperties3.ForeColor = System.Drawing.Color.Empty;
+            stateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtPhone.OnHoverState = stateProperties3;
+            stateProperties4.BorderColor = System.Drawing.Color.Silver;
+            stateProperties4.FillColor = System.Drawing.Color.White;
+            stateProperties4.ForeColor = System.Drawing.Color.Empty;
+            stateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtPhone.OnIdleState = stateProperties4;
+            this.txtPhone.Padding = new System.Windows.Forms.Padding(3);
+            this.txtPhone.PasswordChar = '\0';
+            this.txtPhone.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtPhone.PlaceholderText = "Phone";
+            this.txtPhone.ReadOnly = false;
+            this.txtPhone.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtPhone.SelectedText = "";
+            this.txtPhone.SelectionLength = 0;
+            this.txtPhone.SelectionStart = 0;
+            this.txtPhone.ShortcutsEnabled = true;
+            this.txtPhone.Size = new System.Drawing.Size(473, 45);
+            this.txtPhone.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtPhone.TabIndex = 10;
+            this.txtPhone.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtPhone.TextMarginBottom = 0;
+            this.txtPhone.TextMarginLeft = 3;
+            this.txtPhone.TextMarginTop = 0;
+            this.txtPhone.TextPlaceholder = "Phone";
+            this.txtPhone.UseSystemPasswordChar = false;
+            this.txtPhone.WordWrap = true;
+            // 
+            // bunifuLabel3
+            // 
+            this.bunifuLabel3.AllowParentOverrides = false;
+            this.bunifuLabel3.AutoEllipsis = false;
+            this.bunifuLabel3.CursorType = null;
+            this.bunifuLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel3.Location = new System.Drawing.Point(67, 705);
+            this.bunifuLabel3.Name = "bunifuLabel3";
+            this.bunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel3.Size = new System.Drawing.Size(92, 36);
+            this.bunifuLabel3.TabIndex = 9;
+            this.bunifuLabel3.Text = "Phone";
+            this.bunifuLabel3.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel3.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // txtHireDate
+            // 
+            this.txtHireDate.AcceptsReturn = false;
+            this.txtHireDate.AcceptsTab = false;
+            this.txtHireDate.AnimationSpeed = 200;
+            this.txtHireDate.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtHireDate.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtHireDate.BackColor = System.Drawing.Color.Transparent;
+            this.txtHireDate.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtHireDate.BackgroundImage")));
+            this.txtHireDate.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtHireDate.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtHireDate.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtHireDate.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtHireDate.BorderRadius = 5;
+            this.txtHireDate.BorderThickness = 1;
+            this.txtHireDate.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtHireDate.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtHireDate.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtHireDate.DefaultText = "";
+            this.txtHireDate.FillColor = System.Drawing.Color.White;
+            this.txtHireDate.HideSelection = true;
+            this.txtHireDate.IconLeft = null;
+            this.txtHireDate.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtHireDate.IconPadding = 10;
+            this.txtHireDate.IconRight = null;
+            this.txtHireDate.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtHireDate.Lines = new string[0];
+            this.txtHireDate.Location = new System.Drawing.Point(289, 903);
+            this.txtHireDate.MaxLength = 32767;
+            this.txtHireDate.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtHireDate.Modified = false;
+            this.txtHireDate.Multiline = false;
+            this.txtHireDate.Name = "txtHireDate";
+            stateProperties5.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties5.FillColor = System.Drawing.Color.Empty;
+            stateProperties5.ForeColor = System.Drawing.Color.Empty;
+            stateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtHireDate.OnActiveState = stateProperties5;
+            stateProperties6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtHireDate.OnDisabledState = stateProperties6;
+            stateProperties7.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties7.FillColor = System.Drawing.Color.Empty;
+            stateProperties7.ForeColor = System.Drawing.Color.Empty;
+            stateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtHireDate.OnHoverState = stateProperties7;
+            stateProperties8.BorderColor = System.Drawing.Color.Silver;
+            stateProperties8.FillColor = System.Drawing.Color.White;
+            stateProperties8.ForeColor = System.Drawing.Color.Empty;
+            stateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtHireDate.OnIdleState = stateProperties8;
+            this.txtHireDate.Padding = new System.Windows.Forms.Padding(3);
+            this.txtHireDate.PasswordChar = '\0';
+            this.txtHireDate.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtHireDate.PlaceholderText = "Hire Date";
+            this.txtHireDate.ReadOnly = false;
+            this.txtHireDate.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtHireDate.SelectedText = "";
+            this.txtHireDate.SelectionLength = 0;
+            this.txtHireDate.SelectionStart = 0;
+            this.txtHireDate.ShortcutsEnabled = true;
+            this.txtHireDate.Size = new System.Drawing.Size(473, 45);
+            this.txtHireDate.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtHireDate.TabIndex = 18;
+            this.txtHireDate.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtHireDate.TextMarginBottom = 0;
+            this.txtHireDate.TextMarginLeft = 3;
+            this.txtHireDate.TextMarginTop = 0;
+            this.txtHireDate.TextPlaceholder = "Hire Date";
+            this.txtHireDate.UseSystemPasswordChar = false;
+            this.txtHireDate.WordWrap = true;
+            // 
+            // bunifuLabel7
+            // 
+            this.bunifuLabel7.AllowParentOverrides = false;
+            this.bunifuLabel7.AutoEllipsis = false;
+            this.bunifuLabel7.CursorType = null;
+            this.bunifuLabel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel7.Location = new System.Drawing.Point(67, 912);
+            this.bunifuLabel7.Name = "bunifuLabel7";
+            this.bunifuLabel7.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel7.Size = new System.Drawing.Size(132, 36);
+            this.bunifuLabel7.TabIndex = 17;
+            this.bunifuLabel7.Text = "Hire Date";
+            this.bunifuLabel7.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel7.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // txtEmail
+            // 
+            this.txtEmail.AcceptsReturn = false;
+            this.txtEmail.AcceptsTab = false;
+            this.txtEmail.AnimationSpeed = 200;
+            this.txtEmail.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtEmail.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtEmail.BackColor = System.Drawing.Color.Transparent;
+            this.txtEmail.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtEmail.BackgroundImage")));
+            this.txtEmail.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtEmail.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtEmail.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtEmail.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtEmail.BorderRadius = 5;
+            this.txtEmail.BorderThickness = 1;
+            this.txtEmail.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtEmail.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtEmail.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtEmail.DefaultText = "";
+            this.txtEmail.FillColor = System.Drawing.Color.White;
+            this.txtEmail.HideSelection = true;
+            this.txtEmail.IconLeft = null;
+            this.txtEmail.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtEmail.IconPadding = 10;
+            this.txtEmail.IconRight = null;
+            this.txtEmail.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtEmail.Lines = new string[0];
+            this.txtEmail.Location = new System.Drawing.Point(289, 797);
+            this.txtEmail.MaxLength = 32767;
+            this.txtEmail.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtEmail.Modified = false;
+            this.txtEmail.Multiline = false;
+            this.txtEmail.Name = "txtEmail";
+            stateProperties9.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties9.FillColor = System.Drawing.Color.Empty;
+            stateProperties9.ForeColor = System.Drawing.Color.Empty;
+            stateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtEmail.OnActiveState = stateProperties9;
+            stateProperties10.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties10.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtEmail.OnDisabledState = stateProperties10;
+            stateProperties11.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties11.FillColor = System.Drawing.Color.Empty;
+            stateProperties11.ForeColor = System.Drawing.Color.Empty;
+            stateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtEmail.OnHoverState = stateProperties11;
+            stateProperties12.BorderColor = System.Drawing.Color.Silver;
+            stateProperties12.FillColor = System.Drawing.Color.White;
+            stateProperties12.ForeColor = System.Drawing.Color.Empty;
+            stateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtEmail.OnIdleState = stateProperties12;
+            this.txtEmail.Padding = new System.Windows.Forms.Padding(3);
+            this.txtEmail.PasswordChar = '\0';
+            this.txtEmail.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtEmail.PlaceholderText = "E-Mail";
+            this.txtEmail.ReadOnly = false;
+            this.txtEmail.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtEmail.SelectedText = "";
+            this.txtEmail.SelectionLength = 0;
+            this.txtEmail.SelectionStart = 0;
+            this.txtEmail.ShortcutsEnabled = true;
+            this.txtEmail.Size = new System.Drawing.Size(473, 45);
+            this.txtEmail.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtEmail.TabIndex = 16;
+            this.txtEmail.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtEmail.TextMarginBottom = 0;
+            this.txtEmail.TextMarginLeft = 3;
+            this.txtEmail.TextMarginTop = 0;
+            this.txtEmail.TextPlaceholder = "E-Mail";
+            this.txtEmail.UseSystemPasswordChar = false;
+            this.txtEmail.WordWrap = true;
+            // 
+            // bunifuLabel6
+            // 
+            this.bunifuLabel6.AllowParentOverrides = false;
+            this.bunifuLabel6.AutoEllipsis = false;
+            this.bunifuLabel6.CursorType = null;
+            this.bunifuLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel6.Location = new System.Drawing.Point(70, 806);
+            this.bunifuLabel6.Name = "bunifuLabel6";
+            this.bunifuLabel6.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel6.Size = new System.Drawing.Size(89, 36);
+            this.bunifuLabel6.TabIndex = 15;
+            this.bunifuLabel6.Text = "E-mail";
+            this.bunifuLabel6.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel6.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // txtLastName
+            // 
+            this.txtLastName.AcceptsReturn = false;
+            this.txtLastName.AcceptsTab = false;
+            this.txtLastName.AnimationSpeed = 200;
+            this.txtLastName.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtLastName.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtLastName.BackColor = System.Drawing.Color.Transparent;
+            this.txtLastName.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtLastName.BackgroundImage")));
+            this.txtLastName.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtLastName.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtLastName.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtLastName.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtLastName.BorderRadius = 5;
+            this.txtLastName.BorderThickness = 1;
+            this.txtLastName.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtLastName.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtLastName.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtLastName.DefaultText = "";
+            this.txtLastName.FillColor = System.Drawing.Color.White;
+            this.txtLastName.HideSelection = true;
+            this.txtLastName.IconLeft = null;
+            this.txtLastName.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtLastName.IconPadding = 10;
+            this.txtLastName.IconRight = null;
+            this.txtLastName.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtLastName.Lines = new string[0];
+            this.txtLastName.Location = new System.Drawing.Point(289, 601);
+            this.txtLastName.MaxLength = 32767;
+            this.txtLastName.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtLastName.Modified = false;
+            this.txtLastName.Multiline = false;
+            this.txtLastName.Name = "txtLastName";
+            stateProperties13.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties13.FillColor = System.Drawing.Color.Empty;
+            stateProperties13.ForeColor = System.Drawing.Color.Empty;
+            stateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtLastName.OnActiveState = stateProperties13;
+            stateProperties14.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtLastName.OnDisabledState = stateProperties14;
+            stateProperties15.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties15.FillColor = System.Drawing.Color.Empty;
+            stateProperties15.ForeColor = System.Drawing.Color.Empty;
+            stateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtLastName.OnHoverState = stateProperties15;
+            stateProperties16.BorderColor = System.Drawing.Color.Silver;
+            stateProperties16.FillColor = System.Drawing.Color.White;
+            stateProperties16.ForeColor = System.Drawing.Color.Empty;
+            stateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtLastName.OnIdleState = stateProperties16;
+            this.txtLastName.Padding = new System.Windows.Forms.Padding(3);
+            this.txtLastName.PasswordChar = '\0';
+            this.txtLastName.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtLastName.PlaceholderText = "Last Name";
+            this.txtLastName.ReadOnly = false;
+            this.txtLastName.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtLastName.SelectedText = "";
+            this.txtLastName.SelectionLength = 0;
+            this.txtLastName.SelectionStart = 0;
+            this.txtLastName.ShortcutsEnabled = true;
+            this.txtLastName.Size = new System.Drawing.Size(473, 45);
+            this.txtLastName.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtLastName.TabIndex = 14;
+            this.txtLastName.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtLastName.TextMarginBottom = 0;
+            this.txtLastName.TextMarginLeft = 3;
+            this.txtLastName.TextMarginTop = 0;
+            this.txtLastName.TextPlaceholder = "Last Name";
+            this.txtLastName.UseSystemPasswordChar = false;
+            this.txtLastName.WordWrap = true;
+            // 
+            // bunifuLabel5
+            // 
+            this.bunifuLabel5.AllowParentOverrides = false;
+            this.bunifuLabel5.AutoEllipsis = false;
+            this.bunifuLabel5.CursorType = null;
+            this.bunifuLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel5.Location = new System.Drawing.Point(67, 610);
+            this.bunifuLabel5.Name = "bunifuLabel5";
+            this.bunifuLabel5.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel5.Size = new System.Drawing.Size(150, 36);
+            this.bunifuLabel5.TabIndex = 13;
+            this.bunifuLabel5.Text = "Last Name";
+            this.bunifuLabel5.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel5.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // txtFirstName
+            // 
+            this.txtFirstName.AcceptsReturn = false;
+            this.txtFirstName.AcceptsTab = false;
+            this.txtFirstName.AnimationSpeed = 200;
+            this.txtFirstName.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtFirstName.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtFirstName.BackColor = System.Drawing.Color.Transparent;
+            this.txtFirstName.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtFirstName.BackgroundImage")));
+            this.txtFirstName.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtFirstName.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtFirstName.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtFirstName.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtFirstName.BorderRadius = 5;
+            this.txtFirstName.BorderThickness = 1;
+            this.txtFirstName.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtFirstName.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtFirstName.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtFirstName.DefaultText = "";
+            this.txtFirstName.FillColor = System.Drawing.Color.White;
+            this.txtFirstName.HideSelection = true;
+            this.txtFirstName.IconLeft = null;
+            this.txtFirstName.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtFirstName.IconPadding = 10;
+            this.txtFirstName.IconRight = null;
+            this.txtFirstName.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtFirstName.Lines = new string[0];
+            this.txtFirstName.Location = new System.Drawing.Point(289, 501);
+            this.txtFirstName.MaxLength = 32767;
+            this.txtFirstName.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtFirstName.Modified = false;
+            this.txtFirstName.Multiline = false;
+            this.txtFirstName.Name = "txtFirstName";
+            stateProperties17.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties17.FillColor = System.Drawing.Color.Empty;
+            stateProperties17.ForeColor = System.Drawing.Color.Empty;
+            stateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtFirstName.OnActiveState = stateProperties17;
+            stateProperties18.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties18.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties18.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtFirstName.OnDisabledState = stateProperties18;
+            stateProperties19.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties19.FillColor = System.Drawing.Color.Empty;
+            stateProperties19.ForeColor = System.Drawing.Color.Empty;
+            stateProperties19.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtFirstName.OnHoverState = stateProperties19;
+            stateProperties20.BorderColor = System.Drawing.Color.Silver;
+            stateProperties20.FillColor = System.Drawing.Color.White;
+            stateProperties20.ForeColor = System.Drawing.Color.Empty;
+            stateProperties20.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtFirstName.OnIdleState = stateProperties20;
+            this.txtFirstName.Padding = new System.Windows.Forms.Padding(3);
+            this.txtFirstName.PasswordChar = '\0';
+            this.txtFirstName.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtFirstName.PlaceholderText = "First Name";
+            this.txtFirstName.ReadOnly = false;
+            this.txtFirstName.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtFirstName.SelectedText = "";
+            this.txtFirstName.SelectionLength = 0;
+            this.txtFirstName.SelectionStart = 0;
+            this.txtFirstName.ShortcutsEnabled = true;
+            this.txtFirstName.Size = new System.Drawing.Size(473, 45);
+            this.txtFirstName.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtFirstName.TabIndex = 12;
+            this.txtFirstName.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtFirstName.TextMarginBottom = 0;
+            this.txtFirstName.TextMarginLeft = 3;
+            this.txtFirstName.TextMarginTop = 0;
+            this.txtFirstName.TextPlaceholder = "First Name";
+            this.txtFirstName.UseSystemPasswordChar = false;
+            this.txtFirstName.WordWrap = true;
+            // 
+            // bunifuLabel4
+            // 
+            this.bunifuLabel4.AllowParentOverrides = false;
+            this.bunifuLabel4.AutoEllipsis = false;
+            this.bunifuLabel4.CursorType = null;
+            this.bunifuLabel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel4.Location = new System.Drawing.Point(67, 513);
+            this.bunifuLabel4.Name = "bunifuLabel4";
+            this.bunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel4.Size = new System.Drawing.Size(153, 36);
+            this.bunifuLabel4.TabIndex = 11;
+            this.bunifuLabel4.Text = "First Name";
+            this.bunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel4.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuPictureBox1
+            // 
+            this.bunifuPictureBox1.AllowFocused = false;
+            this.bunifuPictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.bunifuPictureBox1.AutoSizeHeight = true;
+            this.bunifuPictureBox1.BorderRadius = 86;
+            this.bunifuPictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("bunifuPictureBox1.Image")));
+            this.bunifuPictureBox1.IsCircle = true;
+            this.bunifuPictureBox1.Location = new System.Drawing.Point(325, 156);
+            this.bunifuPictureBox1.Name = "bunifuPictureBox1";
+            this.bunifuPictureBox1.Size = new System.Drawing.Size(173, 173);
+            this.bunifuPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.bunifuPictureBox1.TabIndex = 5;
+            this.bunifuPictureBox1.TabStop = false;
+            this.bunifuPictureBox1.Type = Bunifu.UI.WinForms.BunifuPictureBox.Types.Circle;
+            // 
+            // txtTeacherID
+            // 
+            this.txtTeacherID.AcceptsReturn = false;
+            this.txtTeacherID.AcceptsTab = false;
+            this.txtTeacherID.AnimationSpeed = 200;
+            this.txtTeacherID.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.txtTeacherID.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.txtTeacherID.BackColor = System.Drawing.Color.Transparent;
+            this.txtTeacherID.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtTeacherID.BackgroundImage")));
+            this.txtTeacherID.BorderColorActive = System.Drawing.Color.DodgerBlue;
+            this.txtTeacherID.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtTeacherID.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.txtTeacherID.BorderColorIdle = System.Drawing.Color.Silver;
+            this.txtTeacherID.BorderRadius = 5;
+            this.txtTeacherID.BorderThickness = 1;
+            this.txtTeacherID.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txtTeacherID.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtTeacherID.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.txtTeacherID.DefaultText = "";
+            this.txtTeacherID.FillColor = System.Drawing.Color.White;
+            this.txtTeacherID.HideSelection = true;
+            this.txtTeacherID.IconLeft = null;
+            this.txtTeacherID.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtTeacherID.IconPadding = 10;
+            this.txtTeacherID.IconRight = null;
+            this.txtTeacherID.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtTeacherID.Lines = new string[0];
+            this.txtTeacherID.Location = new System.Drawing.Point(289, 408);
+            this.txtTeacherID.MaxLength = 32767;
+            this.txtTeacherID.MinimumSize = new System.Drawing.Size(1, 1);
+            this.txtTeacherID.Modified = false;
+            this.txtTeacherID.Multiline = false;
+            this.txtTeacherID.Name = "txtTeacherID";
+            stateProperties21.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties21.FillColor = System.Drawing.Color.Empty;
+            stateProperties21.ForeColor = System.Drawing.Color.Empty;
+            stateProperties21.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtTeacherID.OnActiveState = stateProperties21;
+            stateProperties22.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties22.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties22.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtTeacherID.OnDisabledState = stateProperties22;
+            stateProperties23.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties23.FillColor = System.Drawing.Color.Empty;
+            stateProperties23.ForeColor = System.Drawing.Color.Empty;
+            stateProperties23.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtTeacherID.OnHoverState = stateProperties23;
+            stateProperties24.BorderColor = System.Drawing.Color.Silver;
+            stateProperties24.FillColor = System.Drawing.Color.White;
+            stateProperties24.ForeColor = System.Drawing.Color.Empty;
+            stateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.txtTeacherID.OnIdleState = stateProperties24;
+            this.txtTeacherID.Padding = new System.Windows.Forms.Padding(3);
+            this.txtTeacherID.PasswordChar = '\0';
+            this.txtTeacherID.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.txtTeacherID.PlaceholderText = "Teacher Id";
+            this.txtTeacherID.ReadOnly = false;
+            this.txtTeacherID.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtTeacherID.SelectedText = "";
+            this.txtTeacherID.SelectionLength = 0;
+            this.txtTeacherID.SelectionStart = 0;
+            this.txtTeacherID.ShortcutsEnabled = true;
+            this.txtTeacherID.Size = new System.Drawing.Size(473, 45);
+            this.txtTeacherID.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.txtTeacherID.TabIndex = 8;
+            this.txtTeacherID.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtTeacherID.TextMarginBottom = 0;
+            this.txtTeacherID.TextMarginLeft = 3;
+            this.txtTeacherID.TextMarginTop = 0;
+            this.txtTeacherID.TextPlaceholder = "Teacher Id";
+            this.txtTeacherID.UseSystemPasswordChar = false;
+            this.txtTeacherID.WordWrap = true;
+            // 
+            // bunifuLabel2
+            // 
+            this.bunifuLabel2.AllowParentOverrides = false;
+            this.bunifuLabel2.AutoEllipsis = false;
+            this.bunifuLabel2.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel2.CursorType = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
+            this.bunifuLabel2.Location = new System.Drawing.Point(67, 418);
+            this.bunifuLabel2.Name = "bunifuLabel2";
+            this.bunifuLabel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel2.Size = new System.Drawing.Size(146, 36);
+            this.bunifuLabel2.TabIndex = 0;
+            this.bunifuLabel2.Text = "TeacherID";
+            this.bunifuLabel2.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel2.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // btnResetTeacher
+            // 
+            this.btnResetTeacher.AllowAnimations = true;
+            this.btnResetTeacher.AllowMouseEffects = true;
+            this.btnResetTeacher.AllowToggling = false;
+            this.btnResetTeacher.AnimationSpeed = 200;
+            this.btnResetTeacher.AutoGenerateColors = false;
+            this.btnResetTeacher.AutoRoundBorders = false;
+            this.btnResetTeacher.AutoSizeLeftIcon = true;
+            this.btnResetTeacher.AutoSizeRightIcon = true;
+            this.btnResetTeacher.BackColor = System.Drawing.Color.Transparent;
+            this.btnResetTeacher.BackColor1 = System.Drawing.Color.Red;
+            this.btnResetTeacher.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnResetTeacher.BackgroundImage")));
+            this.btnResetTeacher.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnResetTeacher.ButtonText = "Reset";
+            this.btnResetTeacher.ButtonTextMarginLeft = 0;
+            this.btnResetTeacher.ColorContrastOnClick = 45;
+            this.btnResetTeacher.ColorContrastOnHover = 45;
+            this.btnResetTeacher.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.btnResetTeacher.CustomizableEdges = borderEdges1;
+            this.btnResetTeacher.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnResetTeacher.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.btnResetTeacher.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.btnResetTeacher.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.btnResetTeacher.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.btnResetTeacher.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.btnResetTeacher.ForeColor = System.Drawing.Color.White;
+            this.btnResetTeacher.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnResetTeacher.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.btnResetTeacher.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.btnResetTeacher.IconMarginLeft = 11;
+            this.btnResetTeacher.IconPadding = 10;
+            this.btnResetTeacher.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnResetTeacher.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.btnResetTeacher.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.btnResetTeacher.IconSize = 25;
+            this.btnResetTeacher.IdleBorderColor = System.Drawing.Color.DodgerBlue;
+            this.btnResetTeacher.IdleBorderRadius = 7;
+            this.btnResetTeacher.IdleBorderThickness = 1;
+            this.btnResetTeacher.IdleFillColor = System.Drawing.Color.Red;
+            this.btnResetTeacher.IdleIconLeftImage = null;
+            this.btnResetTeacher.IdleIconRightImage = null;
+            this.btnResetTeacher.IndicateFocus = false;
+            this.btnResetTeacher.Location = new System.Drawing.Point(314, 1017);
+            this.btnResetTeacher.Name = "btnResetTeacher";
+            this.btnResetTeacher.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.btnResetTeacher.OnDisabledState.BorderRadius = 7;
+            this.btnResetTeacher.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnResetTeacher.OnDisabledState.BorderThickness = 1;
+            this.btnResetTeacher.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.btnResetTeacher.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.btnResetTeacher.OnDisabledState.IconLeftImage = null;
+            this.btnResetTeacher.OnDisabledState.IconRightImage = null;
+            this.btnResetTeacher.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.btnResetTeacher.onHoverState.BorderRadius = 7;
+            this.btnResetTeacher.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnResetTeacher.onHoverState.BorderThickness = 1;
+            this.btnResetTeacher.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.btnResetTeacher.onHoverState.ForeColor = System.Drawing.Color.White;
+            this.btnResetTeacher.onHoverState.IconLeftImage = null;
+            this.btnResetTeacher.onHoverState.IconRightImage = null;
+            this.btnResetTeacher.OnIdleState.BorderColor = System.Drawing.Color.DodgerBlue;
+            this.btnResetTeacher.OnIdleState.BorderRadius = 7;
+            this.btnResetTeacher.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnResetTeacher.OnIdleState.BorderThickness = 1;
+            this.btnResetTeacher.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.btnResetTeacher.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btnResetTeacher.OnIdleState.IconLeftImage = null;
+            this.btnResetTeacher.OnIdleState.IconRightImage = null;
+            this.btnResetTeacher.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(96)))), ((int)(((byte)(144)))));
+            this.btnResetTeacher.OnPressedState.BorderRadius = 7;
+            this.btnResetTeacher.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnResetTeacher.OnPressedState.BorderThickness = 1;
+            this.btnResetTeacher.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(96)))), ((int)(((byte)(144)))));
+            this.btnResetTeacher.OnPressedState.ForeColor = System.Drawing.Color.White;
+            this.btnResetTeacher.OnPressedState.IconLeftImage = null;
+            this.btnResetTeacher.OnPressedState.IconRightImage = null;
+            this.btnResetTeacher.Size = new System.Drawing.Size(202, 55);
+            this.btnResetTeacher.TabIndex = 27;
+            this.btnResetTeacher.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnResetTeacher.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.btnResetTeacher.TextMarginLeft = 0;
+            this.btnResetTeacher.TextPadding = new System.Windows.Forms.Padding(0);
+            this.btnResetTeacher.UseDefaultRadiusAndThickness = true;
+            // 
+            // btnSubmitTeacher
+            // 
+            this.btnSubmitTeacher.AllowAnimations = true;
+            this.btnSubmitTeacher.AllowMouseEffects = true;
+            this.btnSubmitTeacher.AllowToggling = false;
+            this.btnSubmitTeacher.AnimationSpeed = 200;
+            this.btnSubmitTeacher.AutoGenerateColors = false;
+            this.btnSubmitTeacher.AutoRoundBorders = false;
+            this.btnSubmitTeacher.AutoSizeLeftIcon = true;
+            this.btnSubmitTeacher.AutoSizeRightIcon = true;
+            this.btnSubmitTeacher.BackColor = System.Drawing.Color.Transparent;
+            this.btnSubmitTeacher.BackColor1 = System.Drawing.Color.DodgerBlue;
+            this.btnSubmitTeacher.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSubmitTeacher.BackgroundImage")));
+            this.btnSubmitTeacher.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnSubmitTeacher.ButtonText = "Submit";
+            this.btnSubmitTeacher.ButtonTextMarginLeft = 0;
+            this.btnSubmitTeacher.ColorContrastOnClick = 45;
+            this.btnSubmitTeacher.ColorContrastOnHover = 45;
+            this.btnSubmitTeacher.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges2.BottomLeft = true;
+            borderEdges2.BottomRight = true;
+            borderEdges2.TopLeft = true;
+            borderEdges2.TopRight = true;
+            this.btnSubmitTeacher.CustomizableEdges = borderEdges2;
+            this.btnSubmitTeacher.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnSubmitTeacher.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.btnSubmitTeacher.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.btnSubmitTeacher.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.btnSubmitTeacher.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton.ButtonStates.Pressed;
+            this.btnSubmitTeacher.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.btnSubmitTeacher.ForeColor = System.Drawing.Color.White;
+            this.btnSubmitTeacher.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSubmitTeacher.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.btnSubmitTeacher.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.btnSubmitTeacher.IconMarginLeft = 11;
+            this.btnSubmitTeacher.IconPadding = 10;
+            this.btnSubmitTeacher.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnSubmitTeacher.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.btnSubmitTeacher.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.btnSubmitTeacher.IconSize = 25;
+            this.btnSubmitTeacher.IdleBorderColor = System.Drawing.Color.DodgerBlue;
+            this.btnSubmitTeacher.IdleBorderRadius = 7;
+            this.btnSubmitTeacher.IdleBorderThickness = 1;
+            this.btnSubmitTeacher.IdleFillColor = System.Drawing.Color.DodgerBlue;
+            this.btnSubmitTeacher.IdleIconLeftImage = null;
+            this.btnSubmitTeacher.IdleIconRightImage = null;
+            this.btnSubmitTeacher.IndicateFocus = false;
+            this.btnSubmitTeacher.Location = new System.Drawing.Point(70, 1017);
+            this.btnSubmitTeacher.Name = "btnSubmitTeacher";
+            this.btnSubmitTeacher.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.btnSubmitTeacher.OnDisabledState.BorderRadius = 7;
+            this.btnSubmitTeacher.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnSubmitTeacher.OnDisabledState.BorderThickness = 1;
+            this.btnSubmitTeacher.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.btnSubmitTeacher.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.btnSubmitTeacher.OnDisabledState.IconLeftImage = null;
+            this.btnSubmitTeacher.OnDisabledState.IconRightImage = null;
+            this.btnSubmitTeacher.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.btnSubmitTeacher.onHoverState.BorderRadius = 7;
+            this.btnSubmitTeacher.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnSubmitTeacher.onHoverState.BorderThickness = 1;
+            this.btnSubmitTeacher.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            this.btnSubmitTeacher.onHoverState.ForeColor = System.Drawing.Color.White;
+            this.btnSubmitTeacher.onHoverState.IconLeftImage = null;
+            this.btnSubmitTeacher.onHoverState.IconRightImage = null;
+            this.btnSubmitTeacher.OnIdleState.BorderColor = System.Drawing.Color.DodgerBlue;
+            this.btnSubmitTeacher.OnIdleState.BorderRadius = 7;
+            this.btnSubmitTeacher.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnSubmitTeacher.OnIdleState.BorderThickness = 1;
+            this.btnSubmitTeacher.OnIdleState.FillColor = System.Drawing.Color.DodgerBlue;
+            this.btnSubmitTeacher.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.btnSubmitTeacher.OnIdleState.IconLeftImage = null;
+            this.btnSubmitTeacher.OnIdleState.IconRightImage = null;
+            this.btnSubmitTeacher.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(96)))), ((int)(((byte)(144)))));
+            this.btnSubmitTeacher.OnPressedState.BorderRadius = 7;
+            this.btnSubmitTeacher.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
+            this.btnSubmitTeacher.OnPressedState.BorderThickness = 1;
+            this.btnSubmitTeacher.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(96)))), ((int)(((byte)(144)))));
+            this.btnSubmitTeacher.OnPressedState.ForeColor = System.Drawing.Color.White;
+            this.btnSubmitTeacher.OnPressedState.IconLeftImage = null;
+            this.btnSubmitTeacher.OnPressedState.IconRightImage = null;
+            this.btnSubmitTeacher.Size = new System.Drawing.Size(192, 55);
+            this.btnSubmitTeacher.TabIndex = 26;
+            this.btnSubmitTeacher.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnSubmitTeacher.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.btnSubmitTeacher.TextMarginLeft = 0;
+            this.btnSubmitTeacher.TextPadding = new System.Windows.Forms.Padding(0);
+            this.btnSubmitTeacher.UseDefaultRadiusAndThickness = true;
+            // 
+            // UserControlAddTeacher
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.bunifuPanel1);
+            this.Name = "UserControlAddTeacher";
+            this.Size = new System.Drawing.Size(846, 1196);
+            this.bunifuPanel1.ResumeLayout(false);
+            this.bunifuPanel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bunifuPictureBox1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private Bunifu.UI.WinForms.BunifuPanel bunifuPanel1;
+        private Bunifu.UI.WinForms.BunifuTextBox txtHireDate;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel7;
+        private Bunifu.UI.WinForms.BunifuTextBox txtEmail;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel6;
+        private Bunifu.UI.WinForms.BunifuTextBox txtLastName;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel5;
+        private Bunifu.UI.WinForms.BunifuTextBox txtFirstName;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel4;
+        private Bunifu.UI.WinForms.BunifuPictureBox bunifuPictureBox1;
+        private Bunifu.UI.WinForms.BunifuTextBox txtPhone;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel3;
+        private Bunifu.UI.WinForms.BunifuTextBox txtTeacherID;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel2;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel1;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton btnResetTeacher;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton btnSubmitTeacher;
+    }
+}
